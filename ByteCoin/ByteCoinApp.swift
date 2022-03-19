@@ -21,7 +21,7 @@ struct ByteCoinApp: App {
         WindowGroup {
             NavigationView{
                 HomeView().navigationBarHidden(true)
-            }.environmentObject(model)
+            }.navigationViewStyle(StackNavigationViewStyle() ).environmentObject(model)
         }
     }
 }
