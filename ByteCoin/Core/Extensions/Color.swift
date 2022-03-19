@@ -1,6 +1,6 @@
 //
 //  Color.swift
-//  SwiftfulCrypto
+//  ByteCoin
 //
 //  Created by GT on 17.03.2022.
 //
